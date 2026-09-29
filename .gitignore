@@ -1,0 +1,21 @@
+# 编译输出目录
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# 编译产生的文件
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+
+# IDE 配置
+.vscode/
+.idea/
+CMakeFiles/
+CMakeCache.txt
